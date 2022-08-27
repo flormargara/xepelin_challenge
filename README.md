@@ -3,7 +3,7 @@
 
 En este repositorio se encuentran los notebooks creados para resolver el desafío técnico de Xepelin
 
-0.  [En esta presentacíon]([https://github.com/flormargara/xepelin_challenge/blob/main/001_eda.ipynb](https://docs.google.com/presentation/d/12GDBVYWe7MHTL4Ufo2KynyrUY1IJ0eth4H0CiDPTiik/edit#slide=id.g14868bcbbfb_0_37)) se encuentra la explicación de todos los pasos seguidos en el abordaje del desafío.
+0.  [En esta presentación](https://docs.google.com/presentation/d/12GDBVYWe7MHTL4Ufo2KynyrUY1IJ0eth4H0CiDPTiik/edit#slide=id.g14868bcbbfb_0_37) se encuentra la explicación de todos los pasos seguidos en el abordaje del desafío.
 
 1.  [En este notebook](https://github.com/flormargara/xepelin_challenge/blob/main/001_eda.ipynb) se realiza el análisis exploratorio de los datos 
     
