@@ -15,4 +15,4 @@ En este repositorio se encuentran los notebooks creados para resolver el desafí
 
 5.  [En este notebook](https://github.com/flormargara/xepelin_challenge/blob/main/003B_model_skforecast-exog.ipynb)  se realiza una prueba con el paquete "skforecast" con variables exógenas
 
-6.  [En este notebook]([https://github.com/flormargara/xepelin_challenge/blob/main/003B_model_skforecast-exog.ipynb](https://github.com/flormargara/xepelin_challenge/blob/main/003C_autogluon.ipynb))  se realiza una prueba con el paquete "autogluon" de AutoML.
+6.  [En este notebook](https://github.com/flormargara/xepelin_challenge/blob/main/003C_autogluon.ipynb)  se realiza una prueba con el paquete "autogluon" de AutoML.
